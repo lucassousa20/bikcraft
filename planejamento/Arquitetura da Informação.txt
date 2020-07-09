@@ -1,0 +1,27 @@
+HOME
+	informação falando que é uma empresa de bicicleta
+	previa dos principais produtos
+	telefone
+	um pouco sobre a historio (com botão levando para Sobre)
+	falando 
+SOBRE
+	missão, visão e valores
+	historia (falar sobre a montagem)
+
+CLINTES
+	mostrar portifolio
+
+PRODUTO
+	passeio
+	esporte
+	retro
+	orçamento (pedido)
+
+
+CONTATO
+	orçamento (pedido)
+	endereço, telefone e email
+	trabalho conosco
+
+rodapé
+	meios de contato
